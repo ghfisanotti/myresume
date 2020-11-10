@@ -1,0 +1,84 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Gerardo Fisanotti",
+    "label": "sysadmin",
+    "image": "",
+    "email": "ghfisanotti@gmail.com",
+    "phone": "(54) 9 11-43471193",
+    "url": "",
+    "summary": "Gerardo es argentino, nacido en la ciudad de Resistencia, Chaco.",
+    "location": {
+      "address": "Paseo Colon 635",
+      "postalCode": "1000",
+      "city": "CABA",
+      "countryCode": "AR",
+      "region": "Buenos Aires"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "ghfisanotti",
+        "url": "https://github.com/ghfisanotti/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "AFIP",
+      "location": "CABA, Argentina",
+      "position": "Administrador de servidores y red",
+      "url": "https://www.afip.gob.ar/",
+      "startDate": "1999-05-01"
+    }
+  ],
+  "education": [
+  ],
+  "awards": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Desarrollador",
+      "level": "Junior",
+      "keywords": [
+        "C",
+        "PHP",
+        "Shell script",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Operations",
+      "level": "Senior",
+      "keywords": [
+        "Docker",
+        "Ansible",
+        "Terraform",
+        "Kubernetes"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Español",
+      "fluency": "nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "avanzado"
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
